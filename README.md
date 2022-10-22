@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and CSE Undergrad
 -------------------------------
 
-I am a student in computer science engineering. I love to explore new things and new technologies or skills. I started with C language first and then learnt about C++ and OOPs concepts. I am a proficient frontend developer and currently trying my hands on backend development as well. I have worked on many projects based on fronted development and I also have basic knowledge of Django and worked on a few projects in it.
+I am an Undergrad in B.Tech CSE. I love to explore new things and new technologies or skills. I started with C language first and then learnt about C++ and OOPs concepts. I am a proficient frontend developer and currently trying my hands on backend development as well. I have worked on many projects based on fronted development and I also have basic knowledge of Django and worked on a few projects in it.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anjuliaggarwal8@gmail.com](mailto:anjuliaggarwal8@gmail.com)
