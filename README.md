@@ -5,9 +5,8 @@ Web Developer and CSE Undergrad
 -------------------------------
 
 
-## 🏆GitHub Trophies
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Anjuli08)](https://github.com/ryo-ma/github-profile-trophy) -->
-![](https://github-trophies.vercel.app/?username=Anjuli08&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anjuli08)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- ![](https://github-trophies.vercel.app/?username=Anjuli08&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) -->
 
 I am an Undergrad in B.Tech CSE. I love to explore new things and new technologies or skills. I started with C language first and then learnt about C++ and OOPs concepts. I am a proficient frontend developer and currently trying my hands on backend development as well. I have worked on many projects based on fronted development and I also have basic knowledge of Django and worked on a few projects in it.
 
