@@ -56,5 +56,5 @@ I am an Undergrad in B.Tech CSE. I love to explore new things and new technologi
 
 <a href="https://www.buymeacoffee.com/anjuli"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
