@@ -13,7 +13,7 @@ I am an Undergrad in B.Tech CSE. I love to explore new things and new technologi
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anjuliaggarwal8@gmail.com](mailto:anjuliaggarwal8@gmail.com)
 * 🧠  I'm learning backend development
-* 🤝  I'm open to collaborating on interesting projects based on web development or RPA
+* 🤝  I'm open to collaborating on interesting projects based on web development
 
 ### 💻Skills
 
