@@ -48,7 +48,7 @@ I am an Undergrad in B.Tech CSE. I love to explore new things and new technologi
 
  <!--[![Anjuli's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anjuli08&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
 
-<a href="http://www.github.com/Anjuli08"><img src="https://github-readme-stats.vercel.app/api?username=Anjuli08&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anjuli08's GitHub stats" /></a>
+<!--<a href="http://www.github.com/Anjuli08"><img src="https://github-readme-stats.vercel.app/api?username=Anjuli08&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anjuli08's GitHub stats" /></a>-->
 
 <a href="http://www.github.com/Anjuli08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjuli08&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
