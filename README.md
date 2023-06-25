@@ -8,12 +8,13 @@ Web Developer and CSE Undergrad
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anjuli08)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- ![](https://github-trophies.vercel.app/?username=Anjuli08&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) -->
 
-I am an Undergrad in B.Tech CSE. I love to explore new things and new technologies or skills. I started with C language first and then learnt about C++ and OOPs concepts. I am a proficient frontend developer and currently trying my hands on backend development as well. I have worked on many projects based on fronted development and I also have basic knowledge of Django and worked on a few projects in it.
+I am an Undergrad in B.Tech CSE. I love to explore new things and new technologies or skills. I started with C language first and then learnt about C++ and OOPs concepts. I am a MERN Stack developer🚀. I have worked on many projects based on web and I also have basic knowledge of Django and worked on a few django based projects as well.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anjuliaggarwal8@gmail.com](mailto:anjuliaggarwal8@gmail.com)
-* 🧠  I'm learning backend development
-* 🤝  I'm open to collaborating on interesting projects based on web development
+* 🤝  I'm open to collaborating on interesting projects based on web development.
+<!--* 🧠  I'm learning backend development.-->
+ 
 
 ### 💻Skills
 
